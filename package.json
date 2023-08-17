@@ -5,9 +5,9 @@
   "author": "Adan-Perez",
   "private": true,
   "license": "UNLICENSED",
-    "repository": {
-      "directory": ""
-    },
+  "repository": {
+    "directory": "https://github.com/Adan-Perez/NestJS-simple-backend"
+  },
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
