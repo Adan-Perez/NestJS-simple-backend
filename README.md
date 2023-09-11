@@ -35,7 +35,7 @@ $ npm run start:dev
 
 # Usage 🔧
 
-_To test the application you can use applications like [Postman]('https://www.postman.com/'). Using the GET, POST, DELETE and PATCH methods._
+  <p align="center">To test the application you can use applications like <a href="https://www.postman.com/" target="_blank">Postman</a> . Using the GET, POST, DELETE and PATCH methods.</p>
 
 ---
 
@@ -66,7 +66,7 @@ $ npm run start:dev
 
 # Uso 🔧
 
-_Para probar la aplicación puedes usar aplicaciones como [Postman]('https://www.postman.com/'). Usando los métodos GET, POST, DELETE y PATCH._
+  <p align="center">Para probar la aplicación puedes usar aplicaciones como <a href="https://www.postman.com/" target="_blank">Postman</a> . Usando los métodos GET, POST, DELETE y PATCH.</p>
 
 ---
 
